@@ -20,14 +20,14 @@
 
 ### Day 1
 
-- [ ] 阅读欧姆定律和基尔霍夫定律
-- [ ] 理解电阻、电容、电感特性
+- [1] 阅读欧姆定律和基尔霍夫定律
+- [1] 理解电阻、电容、电感特性
 - [ ] 完成MatLab基本电路仿真（放大、滤波、整流）
-- [ ] 安装 Arduino IDE
+- [1] 安装 Arduino IDE
 - [ ] 安装 ESP32 核心
 - [ ] 安装 simpleFOC 库
 - [ ] 安装 ESP-IDF（可选）
-- [ ] Fork 项目到 GitHub
+- [1] Fork 项目到 GitHub
 - [ ] 验证 Git 环境：`git --version`
 - [ ] 记录学习笔记
 
